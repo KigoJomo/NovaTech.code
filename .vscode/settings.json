@@ -1,0 +1,6 @@
+{
+  "figma.autocompleteBlocks": true,
+  "liveSassCompile.settings.watchOnLaunch": true,
+  "liveSassCompile.settings.showOutputWindowOn": "None",
+  "liveServer.settings.port": 5501
+}
